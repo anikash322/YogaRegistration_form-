@@ -37,20 +37,3 @@ $ npm start
 ```
 
 
-## HOW DID I BUILD IT?
-
-With VS code and the built-in terminal.
-
-### SERVER SIDE:
-```
-npm i express    
-npm install bodyparser --save   
-npm install cors --save    
-```
-### CLIENT SIDE:
-1. I installed the react app using create-react-app to get a starter kit in the client/ dir.
-```
- $ npm install -g create-react-app
-  $ create-react-app client
-```
-
