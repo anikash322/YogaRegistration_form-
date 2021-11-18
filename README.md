@@ -37,6 +37,7 @@ $ npm install
 $ cd client
 $ npm start
 ```
+> Before running server u should have postgresql database https://www.postgresql.org/download/
 ##### In other terminal window
 ##### server(backend: )
 ```
