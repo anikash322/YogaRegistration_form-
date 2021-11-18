@@ -28,4 +28,10 @@ $ cd client
 $ npm install
 ```
 
-## 
+## HOW TO RUN IT?
+
+ the react application needs to be started simultaneously (in another terminal window) by default on port :3000 with the command:
+```
+$ cd client
+$ npm start
+```
