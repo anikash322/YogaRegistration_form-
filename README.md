@@ -38,15 +38,15 @@ $ cd client
 $ npm start
 ```
 > Before running server u should have postgresql download and installfrom this link https://www.postgresql.org/download/
-> In dir- server/databasepg.js
-const client = new Client({
+###### In dir- server/databasepg.js
+`const client = new Client({
     host: "localhost",
     user: "postgres",
     port: 5432,
     password: "root",  // set your postgresql password i have set here root 
     database: "postgres"
 })
-
+`
 ##### In other terminal window
 ##### server(backend: )
 ```
