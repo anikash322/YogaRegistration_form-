@@ -39,7 +39,8 @@ $ npm start
 ```
 > Before running server u should have postgresql download and installfrom this link https://www.postgresql.org/download/
 ###### In dir- server/databasepg.js
-```const client = new Client({
+```
+   const client = new Client({
     host: "localhost",
     user: "postgres",
     port: 5432,
