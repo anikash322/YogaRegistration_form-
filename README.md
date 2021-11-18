@@ -30,9 +30,17 @@ $ npm install
 
 ## HOW TO RUN IT?
 
- the react application needs to be started simultaneously (in another terminal window) by default on port :3000 with the command:
+ the react application needs to be started simultaneously  by default on port :3000 with the command:
+
+##### client(frontend)
 ```
 $ cd client
+$ npm start
+```
+In other terminal window
+##### server(backend: )
+```
+$ cd server
 $ npm start
 ```
 
