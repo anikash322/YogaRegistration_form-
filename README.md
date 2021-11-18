@@ -44,7 +44,7 @@ $ npm start
     host: "localhost",
     user: "postgres",
     port: 5432,
-    password: "root",  // set your postgresql password i have set here root 
+    password: "root",  // give your postgresql password here my password is  root 
     database: "postgres"
 })
 ```
