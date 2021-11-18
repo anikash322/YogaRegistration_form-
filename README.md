@@ -10,7 +10,7 @@
 ## HOW TO INSTALL?
 Download from github or git clone
 ```
- $ git clone
+ $ git clone https://github.com/anikash322/YogaRegistration_form-.git
 
 ```
 
