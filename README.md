@@ -37,7 +37,7 @@ $ npm install
 $ cd client
 $ npm start
 ```
-In other terminal window
+##### In other terminal window
 ##### server(backend: )
 ```
 $ cd server
